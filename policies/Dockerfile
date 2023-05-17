@@ -1,4 +1,4 @@
-FROM docker.io/openpolicyagent/opa:latest
+FROM docker.io/openpolicyagent/opa:0.52.0
 
 WORKDIR /app/opa/policies
 
